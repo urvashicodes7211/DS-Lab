@@ -1,3 +1,4 @@
+//WAP to find whether a number is odd or even. 
 #include<stdio.h>
 int main(){
     int n;

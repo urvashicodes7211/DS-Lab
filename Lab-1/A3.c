@@ -1,3 +1,4 @@
+//WAP to determine whether the entered character is vowel or not. 
 #include<stdio.h>
 int main(){
     char ch;
