@@ -1,8 +1,13 @@
-# Data Structures and Algorithms Lab Programs
+# Data Structures Lab Programs
 
-This repository contains Data Structures and Algorithms (DSA) programs completed as part of my college laboratory work.
+This repository contains all the Data Structures (DS) lab programs completed as part of my college coursework.
 
-## Contents
+## About
+
+The purpose of this repository is to practice and understand fundamental Data Structures concepts through programming. The programs included here cover various data structures and their operations.
+
+## Topics Covered
+
 - Arrays
 - Linked Lists
 - Stacks
@@ -11,13 +16,24 @@ This repository contains Data Structures and Algorithms (DSA) programs completed
 - Searching Algorithms
 - Sorting Algorithms
 - Recursion
-- Other DSA Concepts
+- Dynamic Memory Allocation
 
-## Purpose
-The purpose of this repository is to practice and understand fundamental Data Structures and Algorithms concepts through programming exercises and lab assignments.
+## Technologies Used
 
-## Language Used
-- C
+- Programming Language: C
+- Compiler: Visual studio
 
-## Author
-Urvashi Zinzuvadiya
+## Learning Outcomes
+
+- Understanding core Data Structures concepts
+- Implementing algorithms efficiently
+- Improving problem-solving skills
+- Strengthening programming fundamentals
+
+## Note
+
+These programs were developed for academic and learning purposes as part of the Data Structures laboratory course.
+
+---
+
+**Author:** Urvashi Zinzuvadiya
