@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&n);
     char words[n][100],temp[100];
 
-    for(i=0;i<n;i++) {
+    for(i=0;i<n;i++){
         printf("Enter word : ");
         scanf("%s", words[i]);
     }
@@ -21,7 +21,7 @@ int main(){
         }
     }
 
-    for(int k=0;k<n;k++) {
+    for(int k=0;k<n;k++){
         printf("%s\n", words[k]);
     }
 
